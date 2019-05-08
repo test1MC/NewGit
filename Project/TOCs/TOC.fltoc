@@ -28,10 +28,10 @@
     Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A-Introduction-Topics/C-Procedure-Topics/Procedure1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A-Introduction-Topics/C-Procedure-Topics/Procedure2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
